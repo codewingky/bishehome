@@ -1,0 +1,32 @@
+{
+  "hash": "c01026e5",
+  "browserHash": "8a8b1ff9",
+  "optimized": {
+    "@vuepress/shared": {
+      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+@vuepress+shared@2.0.0-beta.60/node_modules/@vuepress/shared/dist/index.js",
+      "file": "@vuepress_shared.js",
+      "fileHash": "1784aa91",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+vue@3.2.47/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "4042612a",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+vue-router@4.1.6_vue@3.2.47/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "vue-router.js",
+      "fileHash": "de9602b3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BUCQQDNT": {
+      "file": "chunk-BUCQQDNT.js"
+    },
+    "chunk-WGA6FXTJ": {
+      "file": "chunk-WGA6FXTJ.js"
+    }
+  }
+}
