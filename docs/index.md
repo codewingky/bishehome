@@ -8,7 +8,7 @@ actions:
     link: http://39.101.79.205:7777/
     type: primary
   - text: 项目简介
-    link: /zh/guide/
+    link: /guide/
     type: secondary
 features:
   - title: 简洁至上
